@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\..\Users\PeterHimschoot\OneDrive - U2U\Training\U2U\U2U.png">
+    <None Update="U2U.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
